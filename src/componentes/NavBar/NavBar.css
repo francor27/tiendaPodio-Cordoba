@@ -1,0 +1,15 @@
+
+.navbar {
+    padding: 150px;
+    display: inline;
+    background-color: black;
+
+}
+.navbar-title {
+ color: brown;
+}
+
+.navbar-btn {
+    color: blueviolet;
+
+}
