@@ -1,7 +1,6 @@
 
 .navbar {
-    padding: 150px;
-    display: inline;
+    padding: 10px;
     background-color: black;
 
 }
@@ -10,6 +9,12 @@
 }
 
 .navbar-btn {
+    display: inline-block;
+    background-color: black;
     color: blueviolet;
+    padding: 10px 30px;
+}
 
+.navbar-btn:hover{
+    background-color: aquamarine;
 }
