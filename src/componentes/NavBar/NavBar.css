@@ -1,20 +1,26 @@
-
-.navbar {
-    padding: 10px;
-    background-color: black;
+nav {
+    position: sticky;
+    top: 0;
 
 }
+
+.navbar {
+    display: flex;
+    padding: 10px;
+    background-color: black;
+}
+
 .navbar-title {
- color: brown;
+    color: #11b0c0;
 }
 
 .navbar-btn {
-    display: inline-block;
     background-color: black;
-    color: blueviolet;
+    color: #fff;
     padding: 10px 30px;
 }
 
 .navbar-btn:hover{
-    background-color: aquamarine;
+    background-color: #11b0c0;
 }
+

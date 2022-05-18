@@ -1,13 +1,13 @@
 import './App.css';
 import NavBar from './componentes/NavBar/NavBar';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import itemListContainer from './componentes/itemListContainer/itemListContainer';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <NavBar />
-     </header>
+        <itemListContainer greeting="Bienvenidos"/>
     </div>
   );
 }
