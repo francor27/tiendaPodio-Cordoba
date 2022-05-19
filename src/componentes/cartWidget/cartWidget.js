@@ -1,10 +1,10 @@
 const cartWidget= () => {
     return (
         <div>
-            <src img =' ' alt ='cart-widget'/>6
+            <src img ='../images/cart-widget.png' alt ='cart-widget'/>6
         </div>
         
     )
 }
 
-export default cartWidget 
+export default cartWidget; 
