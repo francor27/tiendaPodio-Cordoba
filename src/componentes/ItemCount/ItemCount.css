@@ -1,0 +1,13 @@
+.count {
+    display: inline-block;
+    background-color: #11b0c0;
+
+    
+}
+
+.boton {
+    display: inline;
+    border-radius: 15%;
+    text-align: center;
+}
+

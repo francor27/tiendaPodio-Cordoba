@@ -1,5 +1,5 @@
-const itemListContainer = (props) => {
+const ItemListContainer = (props) => {
     return <h1>{props.greeting}</h1>
 }
 
-export default itemListContainer ;
+export default ItemListContainer ;
